@@ -1,7 +1,7 @@
 package = "kong-oidc-test"
 version = "0.2-0"
 source = {
-    url = "https://github.com/grizzlyblitz/kong-oidc-test",
+    url = "git://github.com/grizzlyblitz/kong-oidc-test",
     tag = "v0.2",
     dir = "kong-oidc-test"
 }
